@@ -1,0 +1,2 @@
+# Leaf-Disease-Detector
+Leaf Disease Detector project where it is used to detect if a leaf is diseased or not using Binary Classification neural network and CNN teachniques(ConvNeXtXLarge)
